@@ -1,2 +1,2 @@
-# Cybertek Ticketing Project Initial Template
+# CYDEO Ticketing Project Initial Template
 
